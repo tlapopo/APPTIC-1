@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.Tic-APK",
-    "appname": "Virtual Tic",
+    "app_id": "com.moodle.TicAPK",
+    "appname": "Virtual TI",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
     "versionname": "3.7.1",
@@ -58,7 +58,7 @@
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
     "siteurl": "192.168.1.67",
-    "sitename": "Virtual Tic",
+    "sitename": "Virtual TI",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
