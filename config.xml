@@ -2,14 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.Tic-APK"
+        id        = "com.moodle.TicAPK"
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.1">
-    <name>Virtual Tic</name>
+    <name>Virtual TI</name>
 
     <description>
-        Primeras pruebas con la app de Tic
+        Primeras pruebas con la app de TI
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
