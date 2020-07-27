@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "192.168.1.67",
+    "siteurl": "http://tic-prueba.byethost24.com/moodle",
     "sitename": "Virtual TI",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
