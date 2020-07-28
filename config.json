@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://tic-prueba.byethost24.com/moodle",
+    "siteurl": "http://ti.utxicotepec.edu.mx/login/index.php",
     "sitename": "Virtual TI",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
